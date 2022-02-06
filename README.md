@@ -30,7 +30,7 @@ Bem-vindo(a), este repositório reune diversas informações para interessados e
 - [Índice de oportunidades para estudar fora](#índice-de-oportunidades-para-estudar-fora)
   - [Conteúdo](#conteúdo)
   - [Objetivo](#objetivo)
-  - [Paises](#paises)
+  - [Países](#países)
   - [Documentos necessários](#documentos-necessários)
     - [Observações](#observações)
   - [Testes de proficiência](#testes-de-proficiência)
@@ -41,7 +41,7 @@ Bem-vindo(a), este repositório reune diversas informações para interessados e
 O objetivo deste repositório é reunir diversas informações sobre bolsas de estudo no exterior que são oferecidas por embaixadas e consulados em território nacional. 
 Este repositório não possui qualquer vínculo com estas instituições. Desta forma, as etapas, documentos, etc, aqui descritos, podem não representar o estado atual do programa que desejará participar. Busque sempre as fontes oficiais, use este repositório apenas como um guia.
 
-## Paises
+## Países
 Alguns países que oferecem programas de bolsas de estudos.
 
 - [Alemanha](./scholarships/)
@@ -72,7 +72,7 @@ A lista abaixo contém os principais documentos que podem ser requisitados duran
 ⁵ Para oportunidades de pós-gradução geralmente é necessário apresentar um projeto de pesquisa, de acordo com as regras da instituição.  
 
 ## Testes de proficiência
-Grande parte dos programas ofertados por estes consulados são em inglês ou no idioma oficial do país sedia a universidade desejada. Por isso é extremamente importante ter em mãos o resultado de testes do proficiência de idiomas, em especial, em inglês.
+Grande parte dos programas ofertados por estes consulados são em inglês ou no idioma oficial do país da universidade desejada. Por isso é extremamente importante ter em mãos o resultado de testes do proficiência de idiomas, em especial, em inglês.
 Existem alguns exemplos de testes padronizados para os seguintes idiomas.
 
 - Chinês
