@@ -60,7 +60,7 @@ A lista abaixo contém os principais documentos que podem ser requisitados duran
 - [Diploma mais alto traduzido](./documents/degree-and-transcripts.md) [³](#observações) (_Transcript_)
 - Formulários de inscrição[⁴](#observações)
 - Fotos 3x4
-- [Histórico de diploma traduzido](./documents/degree-and-transcripts.md) [³](#observações)
+- [Histórico escolar traduzido](./documents/degree-and-transcripts.md) [³](#observações)
 - [Passaporte](https://www.gov.br/pt-br/servicos/obter-passaporte-comum-para-brasileiro)
 - [Projeto de pesquisa](./documents/degree.md) [⁵](#observações)
 
