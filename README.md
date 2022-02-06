@@ -98,7 +98,7 @@ Esqueci algo? Encontrou um erro? Conhece outras oportunidades? Contribua! Leia a
 
 ## Conclusão
 
-    Espero que este repositório possa te ajudar a conseguir as tão sonhadas bolsas de estudo. Além disso, é importante dizer que ainda não fui aceito em quaisquer das oportunidades listadas acima, assim como provavelmente você, ainda estou me preparando para esta jornada. 
+Espero que este repositório possa te ajudar a conseguir as tão sonhadas bolsas de estudo. Além disso, é importante dizer que ainda não fui aceito em quaisquer das oportunidades listadas acima, assim como provavelmente você, ainda estou me preparando para esta jornada. 
 
 
 <details>
