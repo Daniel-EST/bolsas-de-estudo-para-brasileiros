@@ -1,1 +1,3 @@
 # Glossário
+
+- **Transcript**: Histórico escolar
