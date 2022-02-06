@@ -33,13 +33,14 @@ Bem-vindo(a), este repositório reune diversas informações para interessados e
   - [Países](#países)
   - [Documentos necessários](#documentos-necessários)
     - [Observações](#observações)
+    - [Limitações](#limitações)
   - [Testes de proficiência](#testes-de-proficiência)
-  - [Outras recomendações](#outras-recomendações)
   - [Contribua](#contribua)
+  - [Conclusão](#conclusão)
 
 ## Objetivo
 O objetivo deste repositório é reunir diversas informações sobre bolsas de estudo no exterior que são oferecidas por embaixadas e consulados em território nacional. 
-Este repositório não possui qualquer vínculo com estas instituições. Desta forma, as etapas, documentos, etc, aqui descritos, podem não representar o estado atual do programa que desejará participar. Busque sempre as fontes oficiais, use este repositório apenas como um guia.
+Este repositório não possui qualquer vínculo com estas instituições. Desta forma, as etapas, documentos, etc, aqui descritos, **podem não representar** o estado atual do programa que desejará participar. Busque sempre as **fontes oficiais**, use este repositório apenas como um guia.
 
 ## Países
 Alguns países que oferecem programas de bolsas de estudos.
@@ -72,6 +73,10 @@ A lista abaixo contém os principais documentos que podem ser requisitados duran
 ⁴ Cada instituição possui sua própria ficha de inscrição, podendo incluir até mesmo uma ficha de análise médica.  
 ⁵ Para oportunidades de pós-gradução geralmente é necessário apresentar um projeto de pesquisa, de acordo com as regras da instituição.  
 
+### Limitações
+
+Dependendo do tipo de bolsa almejada, pode ser que haja alguma restrição sob a idade do candidato. Certifique-se de que esta elegível para o programa desejado.
+
 ## Testes de proficiência
 Grande parte dos programas ofertados por estes consulados são em inglês ou no idioma oficial do país da universidade desejada. Por isso é extremamente importante ter em mãos o resultado de testes do proficiência de idiomas, em especial, em inglês.
 Existem alguns exemplos de testes padronizados para os seguintes idiomas.
@@ -84,13 +89,17 @@ Existem alguns exemplos de testes padronizados para os seguintes idiomas.
   - TOIC
 - Japonês
   - JLPT
-- Francês
 
-## Outras recomendações
-Lorem ipsum
+<!-- ## Outras recomendações
+Lorem ipsum -->
 
 ## Contribua
 Esqueci algo? Encontrou um erro? Conhece outras oportunidades? Contribua! Leia as regras para [contribuição](./contributing.md) e ajude a tornar este repositório mais rico e útil.
+
+## Conclusão
+
+    Espero que este repositório possa te ajudar a conseguir as tão sonhadas bolsas de estudo. Além disso, é importante dizer que ainda não fui aceito em quaisquer das oportunidades listadas acima, assim como provavelmente você, ainda estou me preparando para esta jornada. 
+
 
 <details>
   <summary>Referências</summary>
