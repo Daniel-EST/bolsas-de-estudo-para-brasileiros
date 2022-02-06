@@ -6,7 +6,7 @@ Bem-vindo(a), este repositório reune diversas informações para interessados e
 
 <p align="center">
   <a href="./why.md">Porque este repositório existe?</a>&nbsp;&nbsp;&nbsp;
-  <a href="./contributing.md">Como contribuir?</a>&nbsp;&nbsp;&nbsp;
+  <a href="./CONTRIBUTING.md">Como contribuir?</a>&nbsp;&nbsp;&nbsp;
   <a href="./glossary.md">Glossário</a>&nbsp;&nbsp;&nbsp;
 </p>
 
