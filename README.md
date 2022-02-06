@@ -48,7 +48,8 @@ Alguns países que oferecem programas de bolsas de estudos.
 - [China](./scholarships/china/)
 - [França](./scholarships/france)
 - [Japão](./scholarships/japan)
-- [Suiça](./scolarships/#)
+- [Reino Unido](./scolarships/uk)
+- [Suiça](./scolarships/switzerland)
 
 ## Documentos necessários
 A lista abaixo contém os principais documentos que podem ser requisitados durante a inscrição. Note que nem todos os documentos abaixos são exigidos em todas as oportunidades mostradas aqui, verifique atentamente as orientações nos sites oficiais. Esta coletânea exemplifica alguns dos documentos que podem ser um pouco difíceis de se conseguir rapidamente, por isso é importante tê-los em mãos até mesmo antes das inscrições começarem.
@@ -95,10 +96,23 @@ Esqueci algo? Encontrou um erro? Conhece outras oportunidades? Contribua! Leia a
   <summary>Referências</summary>
   <ul>
     <li><a href="#">https://www.estudarfora.org.br/bolsas-do-governo/</a></li>
+    <li><a href="#">https://www.edublin.com.br/voce-ja-ouviu-falar-nas-bolsas-de-estudos-governamentais/</a></li>
+    <li> Alemanha
+      <ul>
+       <li><a href="#">https://www.daad.org.br/pt/</a></li>
+       <li><a href="#">https://www.study-in-germany.de/en/plan-your-studies/steps/</a></li>
+      </ul>
+    </li>
+    <li> Australia
+      <ul>
+       <li><a href="#">https://brazil.embassy.gov.au/brasportuguese/home.html</a></li>
+      </ul>
+    </li>
     <li> Japão
       <ul>
        <li><a href="#">https://www.br.emb-japan.go.jp/itpr_pt/bolsas_programas.html</a></li>
       </ul>
+    </li>
     <li> China
       <ul>    
         <li><a href="#">http://br.china-embassy.org/por/sghds/202111/t20211116_10448697.htm</a></li>
@@ -107,9 +121,15 @@ Esqueci algo? Encontrou um erro? Conhece outras oportunidades? Contribua! Leia a
         <li><a href="#">https://www.campuschina.org/index.html</a></li>
       </ul>
     </li>
-    <li> Suíça
+    <li> Reino Unido
       <ul>    
-       <li><a href="#">https://www.eda.admin.ch/countries/brazil/pt/home/prestacao/bolsas.html</a></li>
+       <li><a href="#">https://www.chevening.org/scholarship/brazil/</a></li>
+      </ul>
+    </li>
+    <li> Suíça
+      <ul>
+        <li><a href="#">https://www.eda.admin.ch/countries/brazil/pt/home/prestacao/bolsas.html</a></li>
+       <li><a href="#">https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2020/09/embaixada-da-suica-no-brasil-oferece-bolsas-de-estudo-para-pesquisadores</a></li>
       </ul>
     </li>
   </ul>
