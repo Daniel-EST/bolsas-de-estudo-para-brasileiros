@@ -1,0 +1,1 @@
+# Índice de universidades suíças
