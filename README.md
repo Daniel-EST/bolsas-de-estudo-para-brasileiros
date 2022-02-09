@@ -1,6 +1,6 @@
-# Índice de oportunidades para estudar fora
+# Índice de oportunidades para brasileiros estudarem fora
 
-Bem-vindo(a) este repositório reune diversas informações para interessados em estudar no exterior e precisam de bolsas de estudo.
+Bem-vindo(a), este repositório reune diversas informações para interessados em estudar no exterior e precisam de bolsas de estudo ou pesquisa.
 
 <br>
 <p align="center">
