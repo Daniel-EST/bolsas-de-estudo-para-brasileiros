@@ -73,7 +73,7 @@ A lista abaixo contém os principais documentos que podem ser requisitados duran
 
 - [Certificado Internacional de Vacinação (COVID-19)](https://www.gov.br/pt-br/servicos/obter-o-certificado-internacional-de-vacinacao-e-profilaxia)
 
-Até o momento em que este repositório foi confeccionado, não havia nenhum proccesso seletivo que exigisse tais documentos. Porém, considerando a situação do COVID-19 é de se esperar que o candidato esteja apto a viajar. Alguns países exigem vacinação, portanto este certificado foi listado aqui.
+Até o momento em que este repositório foi confeccionado, não havia nenhum processo seletivo que exigisse tais documentos. Porém, considerando a situação atual do COVID-19, é de se esperar que o candidato esteja apto a viajar. Alguns países exigem vacinação, portanto este certificado foi listado aqui.
 
 ### Observações
 
