@@ -19,7 +19,7 @@ Bem-vindo(a), este repositório reune diversas informações para interessados e
 <br>
 
 <p align="center">
-  <sub>Você também pode ver meus outros repositórios no <a href="https://www.github.com/Daniel-EST">Github</a>. Aliás, eu também tenho um <a href="https://www.daniel-est.github.io/blog">blog</a>.
+  <sub>Você também pode ver meus outros repositórios no <a href="https://www.github.com/Daniel-EST">Github</a>. Aliás, eu também tenho um <a href="https://daniel-est.github.io/blog">blog</a>.
 </p>
 
 <br>
