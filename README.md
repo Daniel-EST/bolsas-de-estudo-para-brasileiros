@@ -13,13 +13,13 @@ Bem-vindo(a), este repositório reune diversas informações para interessados e
 <br>
 
 <div align="center">
-  <b>Veja também este <a href="https://github.com/Daniel-EST/scholarships-alerts">repositório</a> para receber informações de bolsas de estudos de universidades assim que disponíveis.</b>
+  <b>Veja também este <a href="https://github.com/Daniel-EST/scholarships-alerts">repositório</a>, para receber informações de bolsas de estudos de universidades assim que disponíveis.</b>
 </div>
 
 <br>
 
 <p align="center">
-  <sub>Você também pode ver meus outros repositórios no <a href="https://www.github.com/Daniel-EST">Github</a>. Aliás, eu também tenho um <a href="https://www.daniel-est.github.io/blog">blog</a>.
+  <sub>Você também pode ver meus outros projetos no <a href="https://www.github.com/Daniel-EST">Github</a>. Aliás, eu também tenho um <a href="https://daniel-est.github.io/blog">blog</a>.
 </p>
 
 <br>
@@ -74,7 +74,7 @@ A lista abaixo contém os principais documentos que podem ser requisitados duran
 
 - [Certificado Internacional de Vacinação (COVID-19)](https://www.gov.br/pt-br/servicos/obter-o-certificado-internacional-de-vacinacao-e-profilaxia)
 
-Até o momento em que este repositório foi confeccionado, não havia nenhum proccesso seletivo que exigisse tais documentos. Porém, considerando a situação do COVID-19 é de se esperar que o candidato esteja apto a viajar. Alguns países exigem vacinação, portanto este certificado foi listado aqui.
+Até o momento em que este repositório foi confeccionado, não havia nenhum processo seletivo que exigisse tais documentos. Porém, considerando a situação atual do COVID-19, é de se esperar que o candidato esteja apto a viajar. Alguns países exigem vacinação, portanto este certificado foi listado aqui.
 
 ### Observações
 
