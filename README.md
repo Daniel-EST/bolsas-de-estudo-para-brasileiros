@@ -13,13 +13,13 @@ Bem-vindo(a), este repositório reune diversas informações para interessados e
 <br>
 
 <div align="center">
-  <b>Veja também este <a href="https://github.com/Daniel-EST/scholarships-alerts">repositório</a> para receber informações de bolsas de estudos de universidades assim que disponíveis.</b>
+  <b>Veja também este <a href="https://github.com/Daniel-EST/scholarships-alerts">repositório</a>, para receber informações de bolsas de estudos de universidades assim que disponíveis.</b>
 </div>
 
 <br>
 
 <p align="center">
-  <sub>Você também pode ver meus outros repositórios no <a href="https://www.github.com/Daniel-EST">Github</a>. Aliás, eu também tenho um <a href="https://daniel-est.github.io/blog">blog</a>.
+  <sub>Você também pode ver meus outros projetos no <a href="https://www.github.com/Daniel-EST">Github</a>. Aliás, eu também tenho um <a href="https://daniel-est.github.io/blog">blog</a>.
 </p>
 
 <br>
