@@ -13,7 +13,7 @@ Bem-vindo(a), este repositório reune diversas informações para interessados e
 <br>
 
 <div align="center">
-  <b>Veja também este <a href="https://github.com/Daniel-EST/scholarships-alert">repositório</a> para receber informações de bolsas de estudos de universidades assim que disponíveis.</b>
+  <b>Veja também este <a href="https://github.com/Daniel-EST/scholarships-alerts">repositório</a> para receber informações de bolsas de estudos de universidades assim que disponíveis.</b>
 </div>
 
 <br>
@@ -68,6 +68,12 @@ A lista abaixo contém os principais documentos que podem ser requisitados duran
 - [Histórico escolar traduzido](./documents/degree-and-transcripts.md) [³](#observações)
 - [Passaporte](https://www.gov.br/pt-br/servicos/obter-passaporte-comum-para-brasileiro)
 - [Projeto de pesquisa](./documents/degree.md) [⁵](#observações)
+
+## Outros documentos
+
+- [Certificado Internacional de Vacinação (COVID-19)](https://www.gov.br/pt-br/servicos/obter-o-certificado-internacional-de-vacinacao-e-profilaxia)
+
+Até o momento em que este repositório foi confeccionado, não havia nenhum proccesso seletivo que exigisse tais documentos. Porém, considerando a situação do COVID-19 é de se esperar que o candidato esteja apto a viajar. Alguns países exigem vacinação, portanto este certificado foi listado aqui.
 
 ### Observações
 
@@ -149,3 +155,9 @@ Espero que este repositório possa te ajudar a conseguir as tão sonhadas bolsas
     </li>
   </ul>
 </details>
+
+# TODO:
+- Melhorar referênccias;
+- Pesquisar e enriquecer com mais informações de outros países;
+- Adicionar mais informações sobbre testes de proficiência;
+- Corrigir erros de português.
