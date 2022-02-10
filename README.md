@@ -49,6 +49,7 @@ Alguns países que oferecem programas de bolsas de estudos.
 
 - [Alemanha](./scholarships/)
 - [China](./scholarships/china/)
+- [Coreia do Sul](./scholarships/south_korea/)
 - [França](./scholarships/france)
 - [Japão](./scholarships/japan)
 - [Reino Unido](./scolarships/uk)
