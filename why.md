@@ -10,7 +10,7 @@ Depois de ler inúmeros editais, percebi que os processos não são tão diferen
 
 Dito isso, aqui consigo documentar tudo que precisarei para quando as inscrições estiverem abertas mais uma vez.
 
-Espero que te ajudo o tanto quanto esta me ajudando.
+Espero que te ajude o tanto quanto esta me ajudando.
 
 **PS.: A parte mais rica deste repostiório será sobre as bolsas de pós-gradução no Japão e China, que são as que eu mais almejo.**
 
