@@ -96,6 +96,8 @@ Existem alguns exemplos de testes padronizados para os seguintes idiomas.
 
 - [Chinês](./languages/chinese.md)
   - HSK
+- [Coreano](./languages/korean.md)
+  - TOPIK
 - [Inglês](./languages/english.md)
   - IELTS
   - TOELF
