@@ -69,8 +69,8 @@ Regulamento para o Processo de Seleção 2022 (dados atualizados em 26/04/2021).
 - Após análise documental de todos os documentos entregues na inscrição, os melhores projetos serão selecionados e convocados para a entrevista. Os candidatos aprovados na análise de documentos, receberão um comunicado por e-mail,  com informações sobre o exame de entrevista.
  
 
-● Provas escritas: Canceladas
-           Devido à pandemia do Coronavírus, não será possível realizar as provas escritas com a presença de um grande número de pessoas que geram aglomeração, considerando a situação de infecção em todo o território brasileiro e protocolos dos governos estaduais. Portanto, este ano, excepcionalmente, não serão aplicadas as provas escritas e a avaliação das línguas inglesa e japonesa será feita através de resultados de testes de proficiências e outros documentos que comprovem o conhecimento das línguas.
+● Provas escritas: Canceladas  
+Devido à pandemia do Coronavírus, não será possível realizar as provas escritas com a presença de um grande número de pessoas que geram aglomeração, considerando a situação de infecção em todo o território brasileiro e protocolos dos governos estaduais. Portanto, este ano, excepcionalmente, não serão aplicadas as provas escritas e a avaliação das línguas inglesa e japonesa será feita através de resultados de testes de proficiências e outros documentos que comprovem o conhecimento das línguas.
 
 ● Entrevista: data a definir
  
@@ -95,22 +95,22 @@ Obs.: Há casos, muito raros, em que o candidato não recebe a Aprovação Final
 
 Período: 4 a 28 de maio de 2021
 
-Envio pelos Correios ou Transportadora:
-         Os interessados deverão enviar toda a documentação do item g), através dos Correios ou outra transportadora, com data de postagem de até 21 de maio, para o endereço abaixo. Para que não haja atrasos, sugerimos o envio através do Sedex ou outros meios. Não nos responsabilizamos por correspondências não entregues até o término da inscrição.
+Envio pelos Correios ou Transportadora:  
+Os interessados deverão enviar toda a documentação do item g), através dos Correios ou outra transportadora, com data de postagem de até 21 de maio, para o endereço abaixo. Para que não haja atrasos, sugerimos o envio através do Sedex ou outros meios. Não nos responsabilizamos por correspondências não entregues até o término da inscrição.
 
 Embaixada do Japão
 Departamento Cultural - (Inscrição de Bolsa de Estudos)
 SES – Av.das Nações, Quadra 811 Lote 39  70425-900 Brasília-DF
 
-Entrega na portaria da Embaixada:
-          Os candidatos que optarem por levar os documentos diretamente à embaixada, deverão colocar todos os documentos em envelope fechado com o endereço acima e deixar na portaria da embaixada. Este ano, excepcionalmente, devido à pandemia do coronavírus, não haverá atendimento presencial aos candidatos. As dúvidas deverão ser esclarecidas preferencialmente através do e-mail: cultural.japao@bs.mofa.go.jp
+Entrega na portaria da Embaixada:  
+Os candidatos que optarem por levar os documentos diretamente à embaixada, deverão colocar todos os documentos em envelope fechado com o endereço acima e deixar na portaria da embaixada. Este ano, excepcionalmente, devido à pandemia do coronavírus, não haverá atendimento presencial aos candidatos. As dúvidas deverão ser esclarecidas preferencialmente através do e-mail: cultural.japao@bs.mofa.go.jp
 
 A inscrição só será efetivada se a documentação estiver completa.
 A Embaixada enviará um e-mail de confirmação de inscrição, após análise dos documentos.
  
 
     
-            Caso tenha dúvidas sobre a documentação, poderá enviar e-mail para cultural.japao@bs.mofa.go.jp informando suas dúvidas.
+Caso tenha dúvidas sobre a documentação, poderá enviar e-mail para cultural.japao@bs.mofa.go.jp informando suas dúvidas.
 Obs: Este ano não haverá atendimento presencial devido à pandemia.
  
 
@@ -200,7 +200,7 @@ Research Map - Research institutions and researchers in Japan
  
 
 
-            Caso tenha dúvidas sobre a documentação, poderá enviar e-mail para cultural.japao@bs.mofa.go.jp informando sua dúvida e telefone para contato.
+Caso tenha dúvidas sobre a documentação, poderá enviar e-mail para cultural.japao@bs.mofa.go.jp informando sua dúvida e telefone para contato.
 Obs: Este ano não haverá atendimento presencial devido à pandemia.
  
       

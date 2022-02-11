@@ -47,13 +47,13 @@ Este repositório não possui qualquer vínculo com estas instituições. Desta 
 
 Alguns países que oferecem programas de bolsas de estudos.
 
-- [Alemanha](./scholarships/)
+- [Alemanha](./scholarships/germany/)
 - [China](./scholarships/china/)
 - [Coreia do Sul](./scholarships/south_korea/)
 - [França](./scholarships/france)
 - [Japão](./scholarships/japan)
-- [Reino Unido](./scolarships/uk)
-- [Suiça](./scolarships/switzerland)
+- [Reino Unido](./scolarships/uk/)
+- [Suiça](./scolarships/switzerland/)
 
 ## Documentos necessários
 
@@ -73,6 +73,7 @@ A lista abaixo contém os principais documentos que podem ser requisitados duran
 ## Outros documentos
 
 - [Certificado Internacional de Vacinação (COVID-19)](https://www.gov.br/pt-br/servicos/obter-o-certificado-internacional-de-vacinacao-e-profilaxia)
+- Apostila de Haia
 
 Até o momento em que este repositório foi confeccionado, não havia nenhum processo seletivo que exigisse tais documentos. Porém, considerando a situação atual do COVID-19, é de se esperar que o candidato esteja apto a viajar. Alguns países exigem vacinação, portanto este certificado foi listado aqui.
 
@@ -93,13 +94,13 @@ Dependendo do tipo de bolsa almejada, pode ser que haja alguma restrição sob a
 Grande parte dos programas ofertados por estes consulados são em inglês ou no idioma oficial do país da universidade desejada. Por isso é extremamente importante ter em mãos o resultado de testes do proficiência de idiomas, em especial, em inglês.
 Existem alguns exemplos de testes padronizados para os seguintes idiomas.
 
-- Chinês
+- [Chinês](./languages/chinese.md)
   - HSK
-- Inglês
+- [Inglês](./languages/english.md)
   - IELTS
   - TOELF
   - TOIC
-- Japonês
+- [Japonês](./languages/japanese.md)
   - JLPT
 
 <!-- ## Outras recomendações
@@ -142,6 +143,13 @@ Espero que este repositório possa te ajudar a conseguir as tão sonhadas bolsas
         <li><a href="#">https://studyinchina.csc.edu.cn/#/home</a></li>
         <li><a href="#">https://www.campuschina.org/index.html</a></li>
       </ul>
+    </li>   
+     <li> Coreia do Sul
+      <ul>    
+        <li><a href="#">https://overseas.mofa.go.kr/br-pt/brd/m_22116/view.do?seq=761036</a></li>
+        <li><a href="#">https://overseas.mofa.go.kr/br-pt/brd/m_22116/view.do?seq=761103&page=5</a></li>
+        <li><a href="#">https://overseas.mofa.go.kr/br-pt/brd/m_22116/view.do?seq=761129</a></li>
+      </ul>
     </li>
     <li> Reino Unido
       <ul>    
@@ -158,7 +166,7 @@ Espero que este repositório possa te ajudar a conseguir as tão sonhadas bolsas
 </details>
 
 # TODO:
-- Melhorar referênccias;
+- Melhorar referências;
 - Pesquisar e enriquecer com mais informações de outros países;
-- Adicionar mais informações sobbre testes de proficiência;
+- Adicionar mais informações sobre testes de proficiência;
 - Corrigir erros de português.

@@ -1,1 +1,0 @@
-# Índice de universidades japonesas
