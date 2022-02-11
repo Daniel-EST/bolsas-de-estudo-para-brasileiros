@@ -4,12 +4,12 @@
 As inscrições para as bolsas de Pesquisa, Graduação, Escola Técnica e Cursos Profissionalizantes ocorrem anualmente entre os meses de abril e junho, e as de Treinamento de Professores e Cultura e Língua Japonesa, no mês de janeiro e fevereiro.
 
 ## Programas disponíveis
-- Graduação
-- Escola Técnica
-- Cursos Profssionalizantes
-- Pesquisa (Pós-graduação)
-- Cultura e Lingua Japonesa (Letras Japonês)
-- Treinamento de Professores
+- Graduação;
+- Escola Técnica;
+- Cursos Profssionalizantes;
+- Pesquisa (Pós-graduação);
+- Cultura e Lingua Japonesa (Letras Japonês);
+- Treinamento de Professores.
 
 
 ## Processo seletivo
