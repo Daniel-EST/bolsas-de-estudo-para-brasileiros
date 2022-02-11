@@ -1,3 +1,3 @@
 # Oportunidades na Coreia do Sul
 
-- [GKS](./GKS/)
+- [GKS](./gks/)
