@@ -13,7 +13,7 @@ Bem-vindo(a), este repositório reune diversas informações para interessados e
 <br>
 
 <div align="center">
-  <b>Acesse também meu canal no <a href="https://t.me/+LUWAZNQoHSs0MTBh">Telegram</a>, para receber informações de bolsas de estudos de universidades assim que disponíveis.</b>
+  <b>Acesse também meu canal no <a href="https://t.me/+LUWAZNQoHSs0MTBh">Telegram</a>, para receber informações de bolsas de estudos de universidades assim que disponíveis.</b><br>
   As infomrações são coletadas através de um bot, acesse este <a href="https://github.com/Daniel-EST/scholarships-alerts">repositório</a> e saiba mais.
 </div>
 
