@@ -88,6 +88,8 @@ Até o momento em que este repositório foi confeccionado, não havia nenhum pro
 ⁴ Cada instituição possui sua própria ficha de inscrição, podendo incluir até mesmo uma ficha de análise médica.  
 ⁵ Para oportunidades de pós-gradução geralmente é necessário apresentar um projeto de pesquisa, de acordo com as regras da instituição.  
 
+Veja mais sobre [documentação](./documents/)
+
 ### Limitações
 
 Dependendo do tipo de bolsa almejada, pode ser que haja alguma restrição sob a idade do candidato. Certifique-se de que esta elegível para o programa desejado.
