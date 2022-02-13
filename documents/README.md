@@ -12,7 +12,7 @@ Preste bastante atenção na documentação exigida, as regras podem mudar um po
 - Fotos 3x4;
 - [Histórico escolar traduzido](./degree-and-transcripts.md);
 - [Passaporte](https://www.gov.br/pt-br/servicos/obter-passaporte-comum-para-brasileiro);
-- [Projeto de pesquisa](./documents/research-project.md);
+- [Projeto de pesquisa](./research-project.md);
 
 ## Outros documentos
 
