@@ -14,10 +14,10 @@ O edital da pós-graduação é divulgado em meados de fevereiro, todos anos, e 
 - [Site oficial do GKS](http://br.china-embassy.org/por/)
 
 ## Links úteis
-- [Formulários](./forms-2021.pdf) (2021-2022)
-- [Perguntas frequentes - FAQ](./faq-2021.pdf) (2021-2022)
-- [Perguntas frequentes (Formulários) - FAQ](./application-faq-2021.pdf) (2021-2022)
-- [Diretrizes](./guidelines-2021.pdf) (2021-2022)
+- [Formulários](./attachments/forms-2021.pdf) (2021-2022)
+- [Perguntas frequentes - FAQ](./attachments/faq-2021.pdf) (2021-2022)
+- [Perguntas frequentes (Formulários) - FAQ](./attachments/application-faq-2021.pdf) (2021-2022)
+- [Diretrizes](./attachments/guidelines-2021.pdf) (2021-2022)
 
 
 <details>
