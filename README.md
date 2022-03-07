@@ -20,7 +20,7 @@ Bem-vindo(a), este repositório reúne diversas informações para interessados 
 <br>
 
 <p align="center">
-  <sub>Você também pode ver meus outros projetos no <a href="https://www.github.com/Daniel-EST">Github</a>. Aliás, eu também tenho um <a href="www.danields.me">blog</a>.
+  <sub>Você também pode ver meus outros projetos no <a href="https://www.github.com/Daniel-EST">Github</a>. Aliás, eu também tenho um <a href="https://www.danields.me">blog</a>.
 </p>
 
 <br>
