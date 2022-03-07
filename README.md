@@ -173,6 +173,7 @@ Espero que este repositório possa te ajudar a conseguir as tão sonhadas bolsas
 </details>
 
 # TODO
+- Preencher o glossário;
 - Melhorar referências;
 - Pesquisar e enriquecer com mais informações de outros países;
 - Adicionar mais informações sobre testes de proficiência;
