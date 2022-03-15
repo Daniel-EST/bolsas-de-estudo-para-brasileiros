@@ -39,7 +39,7 @@ Bem-vindo(a), este repositório reúne diversas informações para interessados 
   - [Testes de proficiência](#testes-de-proficiência)
   - [Contribua](#contribua)
   - [Conclusão](#conclusão)
-- [TODO:](#todo)
+- [TODO](#todo)
 
 ## Objetivo
 
