@@ -11,7 +11,7 @@ O edital da pós-graduação é divulgado em meados de fevereiro, todos anos, e 
 
 
 ## Onde me inscrever?
-- [Site oficial do GKS](http://br.china-embassy.org/por/)
+- [Site oficial do GKS](https://overseas.mofa.go.kr/br-pt/)
 
 ## Links úteis
 - [Formulários](./attachments/forms-2021.pdf) (2021-2022)
