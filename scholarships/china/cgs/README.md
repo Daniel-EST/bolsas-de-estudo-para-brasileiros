@@ -12,9 +12,9 @@
 - [Site oficial do CGS](http://br.china-embassy.org/por/)
 
 ## Links úteis
-- [Perguntas frequentes - FAQ](./faq-2022.pdf) (2021-2022)
-- [Instruções](./instructions-2022-2023.pdf) (2021-2022)
-- [Requerimentos](./requirements-2022-2023.md) (2021-2022)
+- [Perguntas frequentes - FAQ](./attachments/faq-2022.md) (2021-2022)
+- [Instruções](./attachments/instructions-2022-2023.md) (2021-2022)
+- [Requerimentos](./attachments/requirements-2022-2023.md) (2021-2022)
 
 
 <details>
